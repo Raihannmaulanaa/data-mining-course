@@ -4,6 +4,8 @@ Prototipe web self-assessment kesehatan tidur dan stres menggunakan algoritma Ra
 
 > **Disclaimer:** aplikasi ini untuk edukasi dan mawas diri, bukan diagnosis medis.
 
+Link app pakai streamlit: https://data-mining-course-zj3ok9ak4k7hiwg78nzz5x.streamlit.app/
+
 ## Dataset yang dipilih
 Sleep Health and Lifestyle Dataset (Kaggle), data sintetis: 374 baris, 132 baris unik setelah duplikat dibuang.
 
